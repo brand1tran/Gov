@@ -3,6 +3,5 @@
 		<link type="text/ccs" rel="stylesheet" href="INSERT FILE NAME HERE"/>
 	</head>
 	<body>
-		<a href="http://www.sanger.dk/">Visit our HTML tutorial</a>
 	</body>
 </html>
