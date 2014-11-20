@@ -1,9 +1,27 @@
 h1 {
     color: White;
     text-align: Center;
+	font-size: 250%;
 }
 h2 {
     color: white;
-    font-size: 100%;
+    font-size: 150%;
     text-align: center;
 }
+a {
+	color: white;
+}
+h3 {
+	color: white;
+	font-size: 100%;
+	text-align: center;
+}
+body {
+	background-color: olive;
+}
+table, th, td {
+	border: 1px solid white;
+	width: 100%
+	text-align: center;
+}
+	
