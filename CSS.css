@@ -9,7 +9,7 @@ h2 {
     text-align: center;
 }
 a {
-	color: white;
+	color: black;
 }
 h3 {
 	color: white;
@@ -17,7 +17,7 @@ h3 {
 	text-align: center;
 }
 body {
-	background-color: olive;
+	background-color: light gray;
 }
 table, th, td {
 	border: 1px solid white;
