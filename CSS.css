@@ -1,5 +1,5 @@
 h1 {
-    color: Black;
+    color: white;
     text-align: Center;
 	font-size: 250%;
 }
@@ -17,11 +17,11 @@ h3 {
 	text-align: center;
 }
 body {
-	background-color: light gray;
+	background-color: gray;
 }
-table, th, td {
+table{
 	border: 1px solid white;
 	width: 100%
-	text-align: center;
 }
+
 	
