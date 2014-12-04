@@ -18,6 +18,7 @@ h3 {
 }
 body {
 	background-color: gray;
+boarder-color: blue green yellow red;
 }
 table{
 	border: 1px solid white;
